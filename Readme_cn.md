@@ -1,4 +1,5 @@
-描述
+<span style="font-size:40px;font-weight:bold;">描述</span>
+
 这部分代码使用perl语言，批量下载NCBI基因组数据包含fna,gtf,gff等多种格式文件。
 
 准备
