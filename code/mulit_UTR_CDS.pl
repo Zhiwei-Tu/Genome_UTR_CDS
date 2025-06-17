@@ -68,7 +68,7 @@ sub doProgram()
 	
 	$arry[6] =~ s/ /_/g;
 	$arry[23] =~ s/ /_/g;
-	my $out_dir="/home/tuzhiwei/Download/wj/UTR_CDS/".$arry[23]."/".$file_pre;
+	my $out_dir="./".$arry[23]."/".$file_pre;
 	#print "running $cmd\n";
 	`mkdir -p $out_dir`;
 	my $protein_info=$out_dir."/".$file_pre."_protein_info.txt";
