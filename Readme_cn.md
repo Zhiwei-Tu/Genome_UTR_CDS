@@ -3,10 +3,12 @@
 
 ## 准备
 需要系统已安装perl和gffread软件
+
 **perl 下载**
-`https://www.perl.org/get.html`
+   [https://www.perl.org/get.html](https://www.perl.org/get.html)
+   
 **gffread下载**
-`https://github.com/gpertea/gffread`
+   [https://github.com/gpertea/gffread](https://github.com/gpertea/gffread)
 
 ### Step1:从NCBI下载基因组数据list
 
